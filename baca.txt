@@ -1,0 +1,40 @@
+# 1. Inisialisasi repositori Git lokal
+git init
+
+# 2. Tambahkan semua file proyek ke dalam staging
+git add .
+
+# 3. Simpan perubahan (commit pertama)
+git commit -m "Initial commit: upload sistem"
+
+# 4. Ubah nama branch utama menjadi 'main'
+git branch -M main
+
+# 5. Hubungkan folder lokal dengan link GitHub Anda
+git remote add origin https://github.com/greensand01/Skripsi.git
+
+# 6. Upload (push) kode ke GitHub untuk pertama kali
+git push -u origin main
+
+# 1. Inisialisasi repositori Git lokal
+git init
+
+# 2. Tambahkan semua file proyek ke dalam staging
+git add .
+
+# 3. Simpan perubahan (commit pertama)
+git commit -m "Initial commit: upload sistem"
+
+# 4. Ubah nama branch utama menjadi 'main'
+git branch -M main
+
+# 5. Hubungkan folder lokal dengan link GitHub Anda
+git remote add origin https://github.com/greensand01/Skripsi.git
+
+# 6. Upload (push) kode ke GitHub untuk pertama kali
+git push -u origin main
+
+
+
+  git config --global user.email "sjsamuels01@gmail.com"
+  git config --global user.name "greensand01"

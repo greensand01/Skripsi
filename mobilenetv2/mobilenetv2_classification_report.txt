@@ -1,0 +1,13 @@
+
+--- Classification Report (Detail Performa Kelas) ---
+              precision    recall  f1-score   support
+
+        Kaca     0.9873    0.9050    0.9443       600
+      Karton     0.9339    0.9417    0.9378       600
+      Kertas     0.9535    0.9567    0.9551       600
+       Metal     0.8454    0.9750    0.9056       600
+     plastik     0.9074    0.8333    0.8688       600
+
+    accuracy                         0.9223      3000
+   macro avg     0.9255    0.9223    0.9223      3000
+weighted avg     0.9255    0.9223    0.9223      3000

@@ -1,0 +1,13 @@
+
+--- Classification Report (Detail Performa Kelas) ---
+              precision    recall  f1-score   support
+
+   cardboard     0.2956    0.5183    0.3765       600
+       glass     0.5652    0.1733    0.2653       600
+       metal     0.4535    0.6017    0.5172       600
+       paper     0.6271    0.3167    0.4208       600
+     plastic     0.3835    0.4250    0.4032       600
+
+    accuracy                         0.4070      3000
+   macro avg     0.4650    0.4070    0.3966      3000
+weighted avg     0.4650    0.4070    0.3966      3000
